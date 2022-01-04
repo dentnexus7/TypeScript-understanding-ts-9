@@ -1,10 +1,7 @@
-This repository exemplifies adding of Modules and Namespaces for a Drag and Drop application through the "Understanding TypeScript - 2022 Edition" Udemy course.
+This repository exemplifies the use of 3rd Party Libraries & TypeScript through the "Understanding TypeScript - 2022 Edition" Udemy course.
 
 This includes:
-    - Writing Module Code - Your Options
-    - Working with Namespaces
-    - Organizing Files & Folders
-    - A Problem with Namespace Imports
-    - Using ES Modules
-    - Understanding various Import & Export Syntaxes
-    - How Does Code in Modules Execute?
+   - Using JavaScript (!) Libraries with TypeScript
+   - Using "declare" as a "Last Resort"
+   - No Types Needed: class-transformer
+   - TypeScript-embracing: class-validator
